@@ -1,5 +1,5 @@
 {
-  "name": "eightiesguy's Home Assistant Add-ons",
-  "url": "https://github.com/haberda/hassio_addons",
-  "maintainer": "haberda <haberda@protonmail.com"
+  "name": "Signal Addon for hassio",
+  "url": "https://github.com/Alas89/hassio-signal-addon",
+  "maintainer": "alas42@protonmail.com"
 }

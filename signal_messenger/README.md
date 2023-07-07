@@ -22,4 +22,8 @@ If you want to use i.e. REST to receive messages in HA, you can find more detail
 
 It is highly suggested that you use the machine IP address, rather than the loopback address mentioned in the upstream container documentation to register numbers. In HAOS everything is containerized and loopback addresses stay inside the respective containers.
 
-All credit to [@bbernhard](https://github.com/bbernhard), all I did was take his [work](https://github.com/bbernhard/signal-cli-rest-api) and make an add-on.
+# Disclaimer
+
+All credit to [@bbernhard](https://github.com/bbernhard) and [haberda](https://github.com/haberda/hassio_addons) for the addon.
+
+all I did was fork it and tailor it over better overview for me.

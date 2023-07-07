@@ -1,6 +1,6 @@
 name: Signal Messenger
-url: https://github.com/haberda/signal-addon/tree/master/
-version: 0.66.0
+url: https://github.com/Alas89/signal-addon/tree/master/
+version: 0.67.0
 slug: signal_messenger
 arch:
 - aarch64
@@ -24,4 +24,4 @@ schema:
   reset_data: bool?
 environment:
   SIGNAL_CLI_CONFIG_DIR: /data
-image: ghcr.io/haberda/signal_messenger/{arch}
+image: ghcr.io/haberda/signal_messenger/{arch} # ToDo change link
